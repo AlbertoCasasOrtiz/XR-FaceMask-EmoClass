@@ -42,4 +42,4 @@ Ideal image size is (224, 224, 3). Please, resize your images to this size.
 
 ## Citation
 
-> A. Casas-Ortiz, J. Echeverria, N. Jimenez-Tellez, y O. C. Santos, “Exploring the Impact of Partial Occlusion on Emotion Classifi-cation from Facial Expressions: A Comparative Study of XR Headsets and Face Masks”, 2023.
+> A. Casas-Ortiz, J. Echeverria, N. Jimenez-Tellez, y O. C. Santos, “Exploring the Impact of Partial Occlusion on Emotion Classification from Facial Expressions: A Comparative Study of XR Headsets and Face Masks”, 2023.
