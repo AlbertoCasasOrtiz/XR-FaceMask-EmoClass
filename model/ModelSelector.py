@@ -10,7 +10,7 @@ def train_and_evaluate(model_name, dataset_name,
                        img_names_test, labels_test,
                        img_folder, optimizer_list,
                        learning_rates,
-                       folds=2, epochs=1,
+                       folds=5, epochs=20,
                        image_shape=(224, 224, 3)):
 
     # Load orig images.
