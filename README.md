@@ -42,4 +42,18 @@ Ideal image size is (224, 224, 3). Please, resize your images to this size.
 
 ## Citation
 
-> A. Casas-Ortiz, J. Echeverria, N. Jimenez-Tellez, y O. C. Santos, “Exploring the Impact of Partial Occlusion on Emotion Classification from Facial Expressions: A Comparative Study of XR Headsets and Face Masks”, 2023.
+> A. Casas-Ortiz, J. Echeverria, N. Jimenez-Tellez and O. C. Santos, "Exploring the Impact of Partial Occlusion on Emotion Classification From Facial Expressions: A Comparative Study of XR Headsets and Face Masks," in IEEE Access, vol. 12, pp. 44613-44627, 2024, doi: 10.1109/ACCESS.2024.3380439.
+
+### BibTeX:
+```
+@ARTICLE{10477424,
+  author={Casas-Ortiz, Alberto and Echeverria, Jon and Jimenez-Tellez, Nerea and Santos, Olga C.},
+  journal={IEEE Access}, 
+  title={Exploring the Impact of Partial Occlusion on Emotion Classification From Facial Expressions: A Comparative Study of XR Headsets and Face Masks}, 
+  year={2024},
+  volume={12},
+  number={},
+  pages={44613-44627},
+  keywords={Face recognition;Headphones;Measurement;Reviews;Emotion recognition;Transfer learning;Faces;Extended reality;Emotion classification;emotion recognition;facial expression analysis;partial occlusion;transfer learning;deep learning;extended reality;face masks;HMD;XR headset},
+  doi={10.1109/ACCESS.2024.3380439}}
+```
